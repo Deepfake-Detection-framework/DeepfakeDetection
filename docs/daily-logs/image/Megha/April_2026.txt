@@ -7,8 +7,8 @@ Task Assigned:
 
 Process and Finished Task (note: add pdf, images, etc in your folder):
 ->
-{url} ->
-{your understanding of the topic} ->
-{How can it be Implemented in our project} ->
+{url} -> url of kerasfloww
+{your understanding of the topic} -> demo
+{How can it be Implemented in our project} -> purpose
 
 notes:
