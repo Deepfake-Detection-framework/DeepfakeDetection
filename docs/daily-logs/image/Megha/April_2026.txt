@@ -4,5 +4,11 @@
 Task Assigned:
 -> Finding parameters to freeze of xception for fake image detection
 
-Finished Task (note: add pdf, images, etc in your folder):
+
+Process and Finished Task (note: add pdf, images, etc in your folder):
 ->
+{url} ->
+{your understanding of the topic} ->
+{How can it be Implemented in our project} ->
+
+notes:
