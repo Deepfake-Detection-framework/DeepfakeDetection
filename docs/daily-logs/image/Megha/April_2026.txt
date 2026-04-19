@@ -7,8 +7,20 @@ Task Assigned:
 
 Process and Finished Task (note: add pdf, images, etc in your folder):
 ->
-{url} -> url of kerasfloww
-{your understanding of the topic} -> demo
-{How can it be Implemented in our project} -> purpose
+{url} -> https://keras.io/guides/transfer_learning/
+{your understanding of the topic} -> freeze all layers befor output layer add our code of new dataset and changes and merge and unfreezee..
+{How can it be Implemented in our project} -> 
+1. dataset preparation (train, validation, test)
+2. instantiate a base model with pre-trained weights.
+3.  freeze the base model.
+4. Create a new model on top of o/p layer
+5. Train the model on new data.
+6. unfreeze
+7. fine tuning 
+8. standarizing data
+9. data augmentation
+10. build model
+11. evaluate (test)
 
 notes:
+
