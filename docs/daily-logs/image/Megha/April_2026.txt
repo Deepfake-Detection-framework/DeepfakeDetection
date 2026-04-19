@@ -1,0 +1,8 @@
+
+19.04.2026
+
+Task Assigned:
+-> Finding parameters to freeze of xception for fake image detection
+
+Finished Task (note: add pdf, images, etc in your folder):
+->
