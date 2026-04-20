@@ -8,8 +8,15 @@ Task Assigned:
 
 Process and Finished Task (note: add pdf, images, etc in your folder):
 ->
-{url} ->
-{your understanding of the topic} ->
+{url} ->https://www.youtube.com/watch?v=_q16aJTXVRE&list=PLgi1pDxQBCovetWjJIL1H_IC7SY13TIyr
+{your understanding of the topic} -> only the cropped face frame will be used as input for algorithms 
 {How can it be Implemented in our project} ->
+1. Split video into frames
+2. face detection
+3. Cropping the face
+4.Creating the new face cropped video
+5. Saving the face copped video
+-> Preprocessing completed and video ready for algorithms as input
+
 
 notes: 
