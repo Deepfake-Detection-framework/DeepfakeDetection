@@ -26,6 +26,16 @@ read this repo for better understanding
 {url}->https://github.com/selimsef/dfdc_deepfake_challenge
 {your understanding of the topic} -> this is the 1st place in deepfake image detection challenge in kaggle and all the top 3 have used EfficientNet-B7 (6 years ago).
 
+20.04.2026
+{pdf}- Unified Multimodal Deepfake Detection_ Integrated Frameworks.pdf
+{your understanding of the topic} -> understnading the actual structure of a true UNIFIED MULTI-MODULAR DEEPFAKE DETECTION FRAMEWORK
+
+
+
+
+
+
+
 the README.md has all the input constraints required for face detection.
 
 
