@@ -21,6 +21,7 @@ Process and Finished Task (note: add pdf, images, etc in your folder):
 
 {url}-> https://github.com/NTech-Lab/deepfake-detection-challenge 
 read this repo for better understanding 
+{your understanding of the topic} -> As a result of the experiments, we found out that the EfficientNet models work better than others (we checked ResNet, ResNeXt, SE-ResNeXt). The best model was EfficientNet-B7 with Noisy Student pre-trained weights [3]. The size of the input image is 224x192 (most of the faces in the training dataset are smaller). The final ensemble consists of three models, two of which are frame-by-frame, and the third works on sequence.
 
 
 notes: 
