@@ -22,5 +22,11 @@ Process and Finished Task (note: add pdf, images, etc in your folder):
 10. build model
 11. evaluate (test)
 
+20.04.2026
+
+
+efficientnet official code
+{url}= https://github.com/tensorflow/tpu/tree/master/models%2Fofficial%2Fefficientnet
+
 notes:
 
